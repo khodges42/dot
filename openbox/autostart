@@ -1,0 +1,3 @@
+xset b off
+(sleep 1s && nitrogen --restore) &
+xcompmgr &
